@@ -1,2 +1,2 @@
-# C35
-Class 35 Work
+# synchronousBallMovement
+Ball moving synchronously
